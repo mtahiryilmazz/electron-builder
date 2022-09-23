@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 23.6.0
+
+### Minor Changes
+
+- [#7141](https://github.com/electron-userland/electron-builder/pull/7141) [`d71a5790`](https://github.com/electron-userland/electron-builder/commit/d71a5790a94cd56b6e033b656b4892ec31f14b9d) Thanks [@moulinierf](https://github.com/moulinierf)! - feat: add nsis option to remove the default uninstall welcome page
+
 ## 23.5.1
 
 ### Patch Changes
